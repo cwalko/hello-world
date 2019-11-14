@@ -1,2 +1,3 @@
 # hello-world
-my first repository on github as a practive excersise
+Well I wonder how this works with Visual Studio?  
+Not sure what is is doing at all.
